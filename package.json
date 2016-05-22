@@ -1,0 +1,13 @@
+{
+  "name": "ArduinoControlViaWebSpeech",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "johnny-five": "^0.9.34",
+    "socket.io": "^1.4.5",
+    "ejs": "^2.3.1"
+  }
+}

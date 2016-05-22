@@ -1,0 +1,9 @@
+{
+  "name": "ArduinoControlViaWebSpeech",
+  "version": "0.0.1",
+  "dependencies": {
+    "angularjs": "~1.5.2",
+    "socket.io-client": "~1.4.5",
+    "angular-socket-io": "~0.7.0"
+  }
+}
