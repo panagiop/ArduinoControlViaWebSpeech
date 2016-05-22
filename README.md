@@ -1,1 +1,11 @@
 # ArduinoControlViaWebSpeech
+Arduino RGB component control via Web Speech API and web sockets.
+
+<h5>Schematic</h5>
+<img src="http://www.dfrobot.com/wiki/images/a/a9/5_RGB_LED.png" width=463, height=292 /><br>
+<b>Note:</b> The value of each is resistor is 220R.<br>
+
+<h5>Installation</h5>
+<p>1) At the root folder of the project type (in terminal): <b>npm install</b></p>
+<p>2) At the "client" folder type: <b>bower install</b></p>
+<p>3) Run the application (at the root folder) by typing: <b>node app</b></p>
