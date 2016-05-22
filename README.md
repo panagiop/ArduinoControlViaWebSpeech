@@ -9,3 +9,6 @@ Arduino RGB component control via Web Speech API and web sockets.
 <p>1) At the root folder of the project type (in terminal): <b>npm install</b></p>
 <p>2) At the "client" folder type: <b>bower install</b></p>
 <p>3) Run the application (at the root folder) by typing: <b>node app</b></p>
+
+<h5>Demo</h5>
+<p>Watch a demo here: https://www.dropbox.com/s/1xp1m8ixcbjavns/arduino_web_speech_2.mp4?dl=0</p>
