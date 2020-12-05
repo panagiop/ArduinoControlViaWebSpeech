@@ -2,7 +2,7 @@
 Arduino RGB component control via Web Speech API and web sockets.
 
 <h5>Schematic</h5>
-<img src="http://www.dfrobot.com/wiki/images/a/a9/5_RGB_LED.png" width=463, height=292 /><br>
+<img src="https://www.dropbox.com/s/y4n6fx4zd89nt80/rgb_led.jpg?dl=0" width=463, height=292 /><br>
 <b>Note:</b> The value of each is resistor is 220R.<br>
 
 <h5>Installation</h5>
