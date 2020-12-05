@@ -1,9 +1,9 @@
 # ArduinoControlViaWebSpeech
 Arduino RGB component control via Web Speech API and web sockets.
 
-## Schematic
-![](https://www.dropbox.com/s/y4n6fx4zd89nt80/rgb_led.jpg?dl=0)
-**Note**: The value of each is resistor is 220R.<br>
+## Schematics
+<img src="rgb_led.jpg" width="550" height="400">
+**Note**: The value of each is resistor is 220R.
 
 ## Installation
 * At the root folder of the project run:
